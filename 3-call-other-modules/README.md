@@ -11,3 +11,4 @@ go: found fundamentals/CreateModule in fundamentals/CreateModule v0.0.0-00010101
 ## References
 
 1. https://go.dev/doc/tutorial/handle-errors
+2. https://go.dev/doc/tutorial/random-greeting
