@@ -1,9 +1,9 @@
 ## Executions
 
 ```bash
-$ go mod init example/hello
-$ go run .
+$ go mod init fundamentals/GettingStarted
 $ go mod tidy
+$ go run .
 ```
 
 ## References

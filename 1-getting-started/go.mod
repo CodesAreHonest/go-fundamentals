@@ -1,4 +1,4 @@
-module example/hello
+module fundamentals/GettingStarted
 
 go 1.19
 

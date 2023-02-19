@@ -1,0 +1,5 @@
+go 1.19
+
+use ./1-getting-started
+use ./2-create-module
+use ./3-call-other-modules
